@@ -1,3 +1,3 @@
 # TestDemo
 
-https://proputt.github.io/TestDemo/query/data.json
+https://www.baeldung.com/cqrs-event-sourcing-java
